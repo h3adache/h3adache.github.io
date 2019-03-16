@@ -3,16 +3,14 @@
 
 name: chengin dev
 title: Chengin Dev | Home 
-description: Personal site for Tim Chen
+description: My name is Tim Chen. I'm a dad, a software engineer and an aspiring traveling foodie.
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://chengin.com # the base hostname & protocol for your site, e.g. http://example.com
-
 
 #-------------------------------
 # About Section
 author-name:   Tim Chen
 author-avatar: 02.jpg
-
 
 #-------------------------------
 # Contact links
